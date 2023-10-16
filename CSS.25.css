@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: san;
     background-image: url("Alia\ 15.png");
+    background-repeat: no-repeat;
     height: 100%;
 }
 
