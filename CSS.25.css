@@ -3,7 +3,7 @@ body {
     font-family: san;
     background-image: url("Alia\ 15.png");
     background-repeat: no-repeat;
-    height: 100%;
+    background-size: cover;
 }
 
 .bg-image {
@@ -11,7 +11,7 @@ body {
     width: 100%;
     background: url("Alia\ 9.png");
     background-position: center;
-    background-size: 100%;
+    background-size: cover;
 }
 
 .container {
