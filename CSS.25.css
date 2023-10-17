@@ -4,6 +4,7 @@ body {
     background-image: url("Alia\ 15.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     height: 100%;
 }
 
@@ -13,6 +14,7 @@ body {
     background: url("Alia\ 9.png");
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 .container {
