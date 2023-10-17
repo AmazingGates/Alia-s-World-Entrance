@@ -13,7 +13,7 @@ body {
     width: 100%;
     background: url("Alia\ 9.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-attachment: fixed;
 }
 
 .container {
